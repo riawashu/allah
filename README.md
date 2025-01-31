@@ -1,5 +1,5 @@
-# allah@echo off
-
+# allah
+@echo off
 :: BatchGotAdmin
 :-------------------------------------
 REM  --> Check for permissions
